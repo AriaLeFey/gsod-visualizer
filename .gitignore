@@ -1,0 +1,4 @@
+gsod_data
+gsod_data/*
+venv
+utils/__pycache__/
