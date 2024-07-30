@@ -1,1 +1,1 @@
-from .gsod_download import download
+from .gsod import download_archive, find_dir
